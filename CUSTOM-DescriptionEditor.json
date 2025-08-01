@@ -1,3 +1,5 @@
 {
-    "Find": "Replace"
+    "values": {
+        "Find": "Replace"
+    }
 }

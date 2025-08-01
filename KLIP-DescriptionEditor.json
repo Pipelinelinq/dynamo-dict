@@ -1,21 +1,29 @@
 {
-    "aardgasDistributieLageDruk": "Gas LD",
-    "aardgasDistributieMiddenDruk": "Gas MD",
-    "crossTheme": "crossTheme",
-    "drinkwaterDistributie": "Drinkwater",
-    "electricity": "Elektra",
-    "elektriciteitDistributieHoogspanning": "Elektra HS",
-    "elektriciteitDistributieLaagspanning": "Elektra LS",
-    "elektriciteitOpenbareVerlichting": "Elektra OV",
-    "elektronischeCommunicatie": "Data",
-    "Fluvius (ex-Infrax regio)": "Fluvius",
-    "mantelbuis": "Mantelbuis",
-    "oilGasChemical": "Olie-gas-chemicalien",
-    "Orange Belgium nv_sa": "Orange BE",
-    "polyethyleen": "PE",
-    "telecommunications": "Telecommunications",
-    "Telecommunications": "Data",
-    "voorgespannenBeton": "BT",
-    "water": "water",
-    "water-link": "water-link"
+    "klb": {
+        "Fluvius (ex-Infrax regio)": "Fluvius",
+        "Orange Belgium nv_sa": "Orange BE",
+        "water-link": "water-link"
+    },
+    "materiaal": {
+        "polyethyleen": "PE",
+        "voorgespannenBeton": "BT"
+    },
+    "subthema": {
+        "aardgasDistributieLageDruk": "Gas LD",
+        "aardgasDistributieMiddenDruk": "Gas MD",
+        "drinkwaterDistributie": "Drinkwater",
+        "elektriciteitDistributieHoogspanning": "Elektra HS",
+        "elektriciteitDistributieLaagspanning": "Elektra LS",
+        "elektriciteitOpenbareVerlichting": "Elektra OV",
+        "elektronischeCommunicatie": "Data",
+        "mantelbuis": "Mantelbuis",
+        "oilGasChemical": "Olie-gas-chemie",
+        "Telecommunications": "Data"
+    },
+    "utility_type": {
+        "crossTheme": "crossTheme",
+        "electricity": "Elektra",
+        "telecommunications": "Data",
+        "water": "water"
+    }
 }
