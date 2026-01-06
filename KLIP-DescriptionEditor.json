@@ -1,5 +1,6 @@
 {
     "klb": {
+        "Elia Contact Center": "Elia",
         "Fluvius (ex-Infrax regio)": "Fluvius",
         "Orange Belgium nv_sa": "Orange BE",
         "water-link": "water-link"
@@ -12,13 +13,16 @@
         "aardgasDistributieLageDruk": "Gas LD",
         "aardgasDistributieMiddenDruk": "Gas MD",
         "drinkwaterDistributie": "Drinkwater",
+        "drinkwaterToevoer": "Drinkwater",
         "elektriciteitDistributieHoogspanning": "Elektra HS",
         "elektriciteitDistributieLaagspanning": "Elektra LS",
         "elektriciteitOpenbareVerlichting": "Elektra OV",
         "elektronischeCommunicatie": "Data",
         "mantelbuis": "Mantelbuis",
         "oilGasChemical": "Olie-gas-chemie",
-        "Telecommunications": "Data"
+        "Telecommunications": "Data",
+        "elektriciteitTransportPlaatselijk": "Elektra transport",
+        "elektriciteitVerkeerslichten": "Elektra LS"
     },
     "utility_type": {
         "crossTheme": "crossTheme",
