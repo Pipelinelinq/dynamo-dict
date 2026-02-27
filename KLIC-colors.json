@@ -54,7 +54,7 @@
         "Wees": 8
     },
     "True color - NLCS 10-serie": {
-        "(Petro) chemie": {255,191,0},
+        "(Petro) chemie": [255,191,0],
         "Buisleiding gevaarlijke inhoud": 20,
         "Datatransport": 93,
         "Gas hoge druk": 33,
