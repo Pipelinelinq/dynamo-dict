@@ -37,7 +37,7 @@
     },
      "Grey": {
         "(Petro) chemie": 8,
-        "Brandstof":8,
+        "Brandstof": 8,
         "Buisleiding gevaarlijke inhoud": 8,
         "Datatransport": 8,
         "Gas hoge druk": 8,
@@ -55,19 +55,20 @@
     },
     "True color - NLCS 10-serie": {
         "(Petro) chemie": [255,191,0],
-        "Buisleiding gevaarlijke inhoud": 20,
-        "Datatransport": 93,
-        "Gas hoge druk": 33,
-        "Gas lage druk": 33,
-        "Hoogspanning": 13,
-        "Laagspanning": 13,
-        "Landelijk hoogspanningsnet": 13,
-        "Middenspanning": 13,
-        "Overig": 7,
-        "Riool onder druk": 213,
-        "Riool vrijverval": 213,
-        "Warmte": 43,
-        "Water": 173,
-        "Wees": 7
+        "Brandstof": [255,191,0],
+        "Buisleiding gevaarlijke inhoud": [255,63,0],
+        "Datatransport": [0,255,0],
+        "Gas hoge druk": [255,127,0],
+        "Gas lage druk": [255,255,0],
+        "Hoogspanning": [255,0,0],
+        "Laagspanning": [127,0,255],
+        "Landelijk hoogspanningsnet": [255,0,0],
+        "Middenspanning": [0,255,255],
+        "Overig": [128,128,128],
+        "Riool onder druk": [255,0,255],
+        "Riool vrijverval": [255,0,255],
+        "Warmte": [63,255,0],
+        "Water": [0,0,255],
+        "Wees": [0,255,255]
     }
 }
