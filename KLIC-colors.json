@@ -1,5 +1,5 @@
 {
-    "RE-Style": {
+    "RE-Style - NLCS 10": {
         "(Petro) chemie": 43,
         "Buisleiding gevaarlijke inhoud": 20,
         "Datatransport": 93,
@@ -16,7 +16,41 @@
         "Water": 173,
         "Wees": 7
     },
-    "AE-Style": {
+    "AE-Style - NLCS XX": {
+        "(Petro) chemie": 43,
+        "Buisleiding gevaarlijke inhoud": 20,
+        "Datatransport": 93,
+        "Gas hoge druk": 33,
+        "Gas lage druk": 33,
+        "Hoogspanning": 13,
+        "Laagspanning": 13,
+        "Landelijk hoogspanningsnet": 13,
+        "Middenspanning": 13,
+        "Overig": 7,
+        "Riool onder druk": 213,
+        "Riool vrijverval": 213,
+        "Warmte": 43,
+        "Water": 173,
+        "Wees": 7
+    },
+     "Grey": {
+        "(Petro) chemie": 43,
+        "Buisleiding gevaarlijke inhoud": 20,
+        "Datatransport": 93,
+        "Gas hoge druk": 33,
+        "Gas lage druk": 33,
+        "Hoogspanning": 13,
+        "Laagspanning": 13,
+        "Landelijk hoogspanningsnet": 13,
+        "Middenspanning": 13,
+        "Overig": 7,
+        "Riool onder druk": 213,
+        "Riool vrijverval": 213,
+        "Warmte": 43,
+        "Water": 173,
+        "Wees": 7
+    },
+    "True color": {
         "(Petro) chemie": 43,
         "Buisleiding gevaarlijke inhoud": 20,
         "Datatransport": 93,
